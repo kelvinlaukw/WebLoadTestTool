@@ -1,0 +1,9 @@
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\bin\Debug\StressTestProgram.exe.config
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\bin\Debug\StressTestProgram.exe
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\bin\Debug\StressTestProgram.pdb
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\obj\Debug\StressTestProgram.csprojResolveAssemblyReference.cache
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\obj\Debug\StressTestProgram.Form1.resources
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\obj\Debug\StressTestProgram.Properties.Resources.resources
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\obj\Debug\StressTestProgram.csproj.GenerateResource.Cache
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\obj\Debug\StressTestProgram.exe
+c:\users\laukarw\documents\visual studio 2013\Projects\StressTestProgram\StressTestProgram\obj\Debug\StressTestProgram.pdb
