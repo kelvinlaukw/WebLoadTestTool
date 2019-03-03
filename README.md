@@ -1,7 +1,7 @@
 # WebLoadTestTool
 Load Test for Website
 
-1. Define the testing URL in the WebURL.txt file.
+1.Define the testing URL in the WebURL.txt file.
 The settings format is as follow:
 Job Name      URL                               Request Method
 Demo1         https://google.com                Get
